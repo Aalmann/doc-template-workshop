@@ -10,8 +10,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'open-sauced', // Usually your GitHub org/user name.
-  projectName: 'docs-template', // Usually your repo name.
+  organizationName: 'Aalmann', // Usually your GitHub org/user name.
+  projectName: 'docs-template-workshop', // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
     algolia: {
