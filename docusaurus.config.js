@@ -10,7 +10,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Aalmann', // Usually your GitHub org/user name.
+  organizationName: 'aalmann', // Usually your GitHub org/user name.
   projectName: 'docs-template-workshop', // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
